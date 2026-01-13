@@ -1,4 +1,4 @@
-# 🎬 NetflixGPT — AI-powered Movie Discovery Platform
+# 🎬 Netflix.AI-powered Movie Discovery Platform
 
 A fully responsive, intelligent movie-recommendation web app built using Vite + React, TailwindCSS, Redux Toolkit, Firebase, Trakt TV API, and Gemini AI. NetflixGPT enhances the classic browsing experience with AI-based movie search, multilingual support, dynamic UI, and blazing fast performance.
 
